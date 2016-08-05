@@ -1,0 +1,33 @@
+_repo: Quotes-and-Images-From-The-Works-of-Gilbert-Parker_7553
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: &id001 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+  editor:
+    agent_name: Widger, David
+    birthdate: *id001
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2004-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcc 'PS'
+- GITenberg
+title: Quotes and Images From The Works of Gilbert Parker
+url: http://www.gutenberg.org/ebooks/7553
